@@ -59,7 +59,7 @@ Figure 1.6 Business Entities Model (Key: UML)
 
 Figure 1.7 Module View (Key: UML)
 
-#Define Business Entities
+# Define Business Entities
 
 |Element|Responsibility|
 | ------------- | ------------------- |
@@ -70,6 +70,30 @@ Figure 1.7 Module View (Key: UML)
 |Comment Controller|This function allows a user who is logged into the system to comment on their post or their friend’s post.|
 |Like Controller|This function allows a user who is logged into the system to like their own post or their friend’s post. You can also unlike a liked post.|
 |Add friend controller|Enables a user who is logged into the system to add other users. Just like the like button controller you can also remove a friend. |
+
+# UC-1 Registration 
+
+![Figure 1.8](images/iteration2SequenceDiagramUC1.JPG)
+
+FIgure 1.8 Sequence Diagram for UC-1
+
+|Function|Description|
+| ------------- | ------------------- |
+|VerifyInput ()|This method is part of the RegistrationController and verifies whether the information added is in a valid format so that it can be stored properly in the Database.|
+|AddNewUser()|This method is part of the RegistrationController and handles the event of the user addition of the RegistrationDatabase.|
+|DisplayError()|This method outputs an error if the input is invalid.|
+
+# UC-2 Login 
+
+![Figure 1.9](images/iteration2SequenceDiagramUC2.JPG)
+
+FIgure 1.9 Sequence Diagram for UC-2
+
+|Function|Description|
+| ------------- | ------------------- |
+|VerifyInput ()|This method is part of the LoginController and verifies whether the credentials added is in a valid format so that it can be used to retrieve the user info.|
+|DisplayError()|This method outputs an error if the input is inavlid |
+|RetrieveUser()|This method retrieves users from a database where the users are registered |
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
