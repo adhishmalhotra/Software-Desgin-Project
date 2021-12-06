@@ -32,9 +32,13 @@ In this iteration, we will be refining the server side of the application. It's 
 
 ## Step 6: Sketch Views and Record Design Decisions
 As a result of all the decisions made in step 5 of our iteration 2, several diagrams have been created. 
-[Figure 1.5]() highlights the initial domain model of our system.
-[Figure 1.6]() marks the business entities diagram necessary for our system. 
-[Figure 1.7]() highlights all the modules that support the primary use case. 
+
+[Figure 1.5](images/iteration2InitialDomainModel.JPG) highlights the initial domain model of our system.
+
+[Figure 1.6](images/Iteration2BusinessEntitiesDiagram.JPG) marks the business entities diagram necessary for our system. 
+
+[Figure 1.7](images/iteration2ModuleView.JPG) highlights all the modules that support the primary use case. 
+
 And, in the end, we’ve defined business entities in the form of a business entity element and their requirements. 
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
