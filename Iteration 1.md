@@ -51,7 +51,7 @@ In this iteration, we will be refining the server side of the application. It's 
 ## Step 7: Design the Kanban Board
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
-|.| UC-1 |.| Selected reference architecture establishes the modules that will support this functionality.|
+| | UC-1 |.| Selected reference architecture establishes the modules that will support this functionality.|
 |.| UC-2 |.| Selected reference architecture establishes the modules that will support this functionality.|
 |.| UC-6 |.| Selected reference architecture establishes the modules that will support this functionality.|
 | QA-1 |.|.| No relevant decision made, as it is necessary to identify the elements that participate in the use case that is associated with the scenario.|
