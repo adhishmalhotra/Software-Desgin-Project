@@ -1,5 +1,5 @@
 # Iteration 1: Establishing an Overall System Structure
-Here is the [full pdf](/Iteration%201.pdf) of iteration 1 
+Here is the [full pdf](/Iterations/Iteration%201.pdf) of iteration 1 
 ## Step 1: Review Inputs
 
 | Category | Details |
