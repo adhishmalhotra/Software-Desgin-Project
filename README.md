@@ -2,12 +2,12 @@
 # Table of Contents
 1. [**Brief Scope**](#brief-scope)
 2. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
-3. [**Inputs**]
+3. **Inputs**
     1. [Use Case Model and Descriptions](/UseCases.pdf)
     2. [Quality Attributes](/Quality%20Attributes.pdf)
     3. [Constraints](/Constraints.pdf)
     4. [Architectural Concerns](/Concerns.pdf)
-4. [**Iterations**]
+4. **Iterations**
     1. [Iteration 1](Iteration%201.md)
     2. [Iteration 2](/Iteration%202.md)
     3. [Iteration 3](/Iteration%203.md)
