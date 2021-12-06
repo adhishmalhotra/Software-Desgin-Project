@@ -1,4 +1,5 @@
 # Iteration 1: Establishing an Overall System Structure
+## Step 2: Review Inputs
 
 | Category | Details |
 | ------------- | ------------- |
