@@ -46,7 +46,7 @@ In this iteration, we will be refining the server side of the application. It's 
 | Connecting the database access module to data source | The data layer that exists on the server side will have access to the database through an access module. The purpose of this module is to provide access to the SQL database server. |
 
 ## Step 6: Include all Rough Diagrams
-images/iteration1ReferenceArchitecture.JPG
+![Components to be Refined](images/iteration1ReferenceArchitecture.JPG)
 
 Reference Architecture
 ## Step 7: Design the Kanban Board
