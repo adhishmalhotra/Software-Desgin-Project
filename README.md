@@ -1,4 +1,4 @@
-# Software-Design-Project-Proposal
+# Software-Design-Project
 # Table of Contents
 1. [**Brief Scope**](#brief-scope)
 2. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
