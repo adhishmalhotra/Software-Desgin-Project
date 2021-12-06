@@ -1,11 +1,9 @@
-#Step 1: Review Inputs   
+# Step 1: Review Inputs   
 
 | Category | Details |
 | ------------- | ------------- |
 | Design purpose  | This is a Social Networking website. The purpose of this is to produce sufficiently detailed design to support the functionality of the website. The system should provide the user the ability to create an account, login into their account, search for different users in the database or different posts in the system, add/remove friends, share/delete posts, modify their profile, etc. |
-| Primary Functional requirements |  Of the use cases presented in Figure 1.1.1, the primary ones are: 
-- UC -1 because it is the first step in accessing the website 
-- UC - 2 because it directly supports the core functionality 
+| Primary Functional requirements |  Of the use cases presented in Figure 1.1.1, the primary ones are: - UC -1 because it is the first step in accessing the website - UC - 2 because it directly supports the core functionality 
 - UC - 6 because it directly supports the core functionality  |
 | Category | Details |
 
