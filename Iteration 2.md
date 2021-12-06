@@ -38,5 +38,24 @@ And, in the end, we’ve defined business entities in the form of a business ent
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
 |.|.| UC-1 | A user is able to register themselves onto the application’s database. An HTML form is used to collect the data from the user and PHP is used to establish connection to the server and PHP is also used for storing all the data.|
+|.|.| UC-2 | A user is able to login so that they have access to our website’s features. An HTML form is used to collect the user’s login credentials. And, PHP is used to connect to the database and make sure that the login information inputted by the user is correct. |
+|.|.| UC-3 | There is a logout button on the home-page which allows the user to logout of the session. PHP is used to achieve this. |
+|.|.| UC-4 | A user can add another user in the system by searching for them using their username  and a user can remove another user as their friend. This is achieved using PHP as well. |
+|.|.| UC-5 | Every user has a friend_array. When a logged-in user accepts another user’s friend request, then that user is added into the logged-in user’s friend-array and vice versa. This is achieved using PHP. Moreover, a user can remove another user as their friend. When this happens, the user is removed from the logged-in user’s friend_array and vice versa. |
+|.|.| UC-6 | A logged-in user can create a post. An HTML form is used to take the post-body from the logged-in user and once the user posts the post, it is visible to the logged-in user’s friend. |
+|.|.| UC-11 | When the user logs into the system, they’re led to our application’s home page/ newsfeed page. This page shows the number of likes, posts and friends the logged-in user has. The logged-in user can also see their own posts as well as the posts shared by the user's friends. This is achieved using PHP as well. |
+|.|.| UC-12 | A user can like or comment on a post that is either shared by himself or the posts that are shared by the user's friends. This is achieved using PHP. 
+|
+| CON-1|.|.| This concern will be addressed within a frontend constraint that requires the user to define at least one other user that exists within the MySql database that will collaborate with them. |
+|.|.| QA-7 | When a user creates an account, their credentials for their login will be encrypted and then it will be stored to ensure security of the user's personal information. |
+| UC-7 |.|.| When a user wishes to change their password, a form will be presented to the user asking them for their previous password, then asking for a new password that they wish to replace their old one with. |
+|.|.| QA-4 | The constraint of up to date browsing software will be required by the frontend of the server, if the user doesn’t have one of the listed browsers, they will be told to reconnect on an up to date version. | 
+|.|.| CON-5 | This will be done through the selected database which is SQL. Each user’s actions on the server are recorded for up to 30 days. | 
+|.|.| CRN-1 | The final-system was finished in the allotted time. |
+|.|.| CRN-2 | The work was evenly distributed amongst the team-members. |
+|.|.| CRN-3 | The first functional prototype was successfully rendered. | 
+
+
+
 
 
