@@ -24,8 +24,8 @@ The drivers that will be focused on in this iteration are:
 In this iteration, we will be refining the server side of the application. It's important for the system to support connecting to both client and the server easily. The modules which are required are located in the server.
 
 ## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
-| Design Design and Locations | Rationale ||
--------------- | ------------- | 
+| Design Design and Locations | Rationale |
+| -------------- | ------------- | 
 | Logically structure the client part of the system using the Web application reference architecture | Web application reference architecturesupports deploying and running our application on a web browser. It is fairly easy to create views for a web application as compared to any other type of Web application reference architecture application. Choosing this architecture itself supports QA-3, QA-4, QA-5. Moreover, it also supports CON-3 and CON-7. |
 | Discarded Alternatives:|  Alternative Reason for discarding Mobile Application This alternative was discarded because this type of device was not considered for accessing the system. |
 | Logically structure the server part of the system similar to a web application | The database which is created for the purpose of this application is primarily used for storing different types of data that would be essential to our application. Most of the processing is done before-hand, meaning the data which is supplied by the user is first checked to make sure whether it’s relevant or not, and once it's established that the data is relevant, it’s stored in the database. The application follows a client-side scripting pattern. All of the team members are familiar with the MySQL database system and hence we decided to proceed with this architecture specifically. |
