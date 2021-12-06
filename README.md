@@ -1,14 +1,13 @@
 # Software-Design-Project-Proposal
 # Table of Contents
-1. [**Introduction**](#introduction)
-2. [**Brief Scope/Plan**](#product_vision_and_scope)
-4. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
-5. [**Inputs**](/Inputs/)
+1. [**Brief Scope/Plan**](#product_vision_and_scope)
+2. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
+3. [**Inputs**](/Inputs/)
     1. [Use Case Model and Descriptions](/UseCases.pdf)
     2. [Quality Attributes](/Quality%20Attributes.pdf)
     3. [Constraints](/Constraints.pdf)
     4. [Architectural Concerns](/Concerns.pdf)
-6. [**Iterations**](/Iterations/)
+4. [**Iterations**](/Iterations/)
     1. [Iteration 1]
     2. [Iteration 2]
     3. [Iteration 3]
