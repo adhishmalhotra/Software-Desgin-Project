@@ -48,6 +48,5 @@ In this iteration, we will be refining the server side of the application. It's 
 ## Step 6: Include all Rough Diagrams
 ![Components to be Refined](images/iteration1ReferenceArchitecture.JPG)
 
-Reference Architecture
 ## Step 7: Design the Kanban Board
 
