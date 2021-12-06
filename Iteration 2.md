@@ -1,4 +1,4 @@
-# Iteration 2 Identifying Structures to Support Primary Functionality
+# Iteration 2: Identifying Structures to Support Primary Functionality
 The outcomes of the actions undertaken in each of the ADD phases in the second iteration of the design process for the LinkedHub system are shown in this section. We go from the general and coarse-grained functionality descriptions used in iteration 1 to more comprehensive decisions that will drive implementation and, as a result, the establishment of development teams in this iteration.
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
