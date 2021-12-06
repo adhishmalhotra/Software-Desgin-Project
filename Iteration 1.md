@@ -51,22 +51,22 @@ In this iteration, we will be refining the server side of the application. It's 
 ## Step 7: Design the Kanban Board
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
-| | UC-1 |.| Selected reference architecture establishes the modules that will support this functionality.|
-|.| UC-2 |.| Selected reference architecture establishes the modules that will support this functionality.|
-|.| UC-6 |.| Selected reference architecture establishes the modules that will support this functionality.|
-| QA-1 |.|.| No relevant decision made, as it is necessary to identify the elements that participate in the use case that is associated with the scenario.|
-|.|.| QA-2 | The use of GitHub Pages as a hosting platform will allow for minimal down time.|
-|.|.| QA-5 | The use of a browser as a client in the web application architecture is sufficient to fulfill this quality attribute.|
-| QA-6 |.|.| No relevant decisions have been made regarding the elements that participate in this quality attribute.|
-| QA-7 |.|.| No relevant decisions have been made regarding the elements that participate in this quality attribute.|
-|.|.| CON-1 | Allowing users to collaborate on projects with others is sufficient to fulfill this concern|
-| CON-2 |.|.| No relevant decisions have been made regarding the elements that participate in this constraint.|
-|.|.| CON-3 | Changes to projects, profiles, or any other user change on the machine is recorded.|
-|.|.| CON-4 | The server can be accessed using specific web browsers and the acceptable platforms are Windows, Linux and OSX.|
-|.| CON-5 |.| No relevant decisions have been made regarding the elements that participate in this constraint.|
-|.|.| CRN-1 | The final system is successfully completed in the allotted time.|
-|.|.| CRN-2 | The workload is evenly distributed within the project across the development team to fully utilize the team's capabilities.|
-|.|.| CRN-3 | The first prototype of the system was successfully completed.|
+| | UC-1 | | Selected reference architecture establishes the modules that will support this functionality.|
+| | UC-2 | | Selected reference architecture establishes the modules that will support this functionality.|
+| | UC-6 | | Selected reference architecture establishes the modules that will support this functionality.|
+| QA-1 | | | No relevant decision made, as it is necessary to identify the elements that participate in the use case that is associated with the scenario.|
+| | | QA-2 | The use of GitHub Pages as a hosting platform will allow for minimal down time.|
+| | | QA-5 | The use of a browser as a client in the web application architecture is sufficient to fulfill this quality attribute.|
+| QA-6 | | | No relevant decisions have been made regarding the elements that participate in this quality attribute.|
+| QA-7 | | | No relevant decisions have been made regarding the elements that participate in this quality attribute.|
+| | | CON-1 | Allowing users to collaborate on projects with others is sufficient to fulfill this concern|
+| CON-2 | | | No relevant decisions have been made regarding the elements that participate in this constraint.|
+| | | CON-3 | Changes to projects, profiles, or any other user change on the machine is recorded.|
+| | | CON-4 | The server can be accessed using specific web browsers and the acceptable platforms are Windows, Linux and OSX.|
+| | CON-5 | | No relevant decisions have been made regarding the elements that participate in this constraint.|
+| | | CRN-1 | The final system is successfully completed in the allotted time.|
+| | | CRN-2 | The workload is evenly distributed within the project across the development team to fully utilize the team's capabilities.|
+| | | CRN-3 | The first prototype of the system was successfully completed.|
 
 
 
