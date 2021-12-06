@@ -1,6 +1,6 @@
 # Software-Design-Project-Proposal
 # Table of Contents
-1. [**Brief Scope/Plan**](#brief-scope/plan)
+1. [**Brief Scope**](#brief-scope)
 2. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
 3. [**Inputs**](/Inputs/)
     1. [Use Case Model and Descriptions](/UseCases.pdf)
