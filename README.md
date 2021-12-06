@@ -1,6 +1,6 @@
 # Software-Design-Project-Proposal
 # Table of Contents
-1. [**Brief Scope/Plan**](#Brief-Scope/Plan)
+1. [**Brief Scope/Plan**](#brief-scope/plan)
 2. [**Project Proposal**](/SOFE3650%20-%20Project%20Proposal.pdf)
 3. [**Inputs**](/Inputs/)
     1. [Use Case Model and Descriptions](/UseCases.pdf)
@@ -8,7 +8,7 @@
     3. [Constraints](/Constraints.pdf)
     4. [Architectural Concerns](/Concerns.pdf)
 4. [**Iterations**](/Iterations/)
-    1. [Iteration 1] (#Iteration_1)
+    1. [Iteration 1] (#iteration-1)
     2. [Iteration 2]
     3. [Iteration 3]
 
