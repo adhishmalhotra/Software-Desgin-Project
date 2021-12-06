@@ -23,6 +23,7 @@ The drivers that will be focused on in this iteration are:
   
 ## Step 3: Choose One or More Elements of the System to Refine
 In this iteration, we will be refining the server side of the application. It's important for the system to support connecting to both client and the server easily. The modules which are required are located in the server.
+![Components to be Refined](images/iteration1ComponentsToBeRefined.JPG)
 
 ## Step 4: Choose One or More Design Concepts that Satisfy the Selected Drivers
 | Design Design and Locations | Rationale |
