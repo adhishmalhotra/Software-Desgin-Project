@@ -95,6 +95,18 @@ FIgure 1.9 Sequence Diagram for UC-2
 |DisplayError()|This method outputs an error if the input is inavlid |
 |RetrieveUser()|This method retrieves users from a database where the users are registered |
 
+### UC-6 Share/Post/Project 
+
+![Figure 2.0](images/iteration2SequenceDiagramUC6.JPG)
+
+FIgure 2.0 Sequence Diagram for UC-6
+
+|Function|Description|
+| ------------- | ------------------- |
+|submitPost ()|This function is activated when the logged-in user fills out the information in the html form and hits the post button. The function checks whether the post body is empty or not. If the post body is not empty then it stores the session information in the database. The database responds that the information has been successfully saved and the submitPost () function requests the database to increment the total number of posts of the logged-in user. |
+
+Sequence Diagrams for UC-1, UC-2, and UC-6 were created to define interfaces. 
+
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
