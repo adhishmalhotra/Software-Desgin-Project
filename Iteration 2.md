@@ -41,12 +41,34 @@ As a result of all the decisions made in step 5 of our iteration 2, several diag
 
 And, in the end, we’ve defined business entities in the form of a business entity element and their requirements. 
 
-Initial Domain Model
+#Initial Domain Model
 
 ![Figure 1.5](images/iteration2InitialDomainModel.JPG)
 
 Figure 1.5 Initial Domain Model (Key: UML)
 
+#Business Entities Diagram 
+
+![Figure 1.6](images/Iteration2BusinessEntitiesDiagram.JPG)
+
+Figure 1.6 Business Entities Model (Key: UML)
+
+#Modules that support Primary Use Case  
+
+![Figure 1.7](images/iteration2ModuleView.JPG)
+
+Figure 1.7 Module View (Key: UML)
+
+#Define Business Entities
+
+|Element|Responsibility|
+|Registration Controller|Enables a user to register their account on the LinkedHub server.|
+|Login Controller|Validates whether the login information entered by the user is correct or not. If the login information is correct, the user is directed to the main page of the website. You can also logout  |
+|News Feed view|This is the main page of our social networking website. It consists of all the posts posted by the different users who are your friends. |
+|Create Post Controller|This function allows the user who is logged into the system to create a post. This post shall be visible on the user’s newsfeed page along with the posts of other users who are friends of the user who is logged in. |
+|Comment Controller|This function allows a user who is logged into the system to comment on their post or their friend’s post.|
+|Like Controller|This function allows a user who is logged into the system to like their own post or their friend’s post. You can also unlike a liked post.|
+|Add friend controller|Enables a user who is logged into the system to add other users. Just like the like button controller you can also remove a friend. |
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
