@@ -1,4 +1,5 @@
 # Iteration 1: Establishing an Overall System Structure
+Here is the [full pdf]() of iteration 1 
 ## Step 1: Review Inputs
 
 | Category | Details |
@@ -44,4 +45,6 @@ In this iteration, we will be refining the server side of the application. It's 
 | Incorporate a separate layer to hold the data on server side | Adding a third layer to the server side that will manage the data ensuring that it is consistent with the data on the dedicated server.|
 | Connecting the database access module to data source | The data layer that exists on the server side will have access to the database through an access module. The purpose of this module is to provide access to the SQL database server. |
 
+## Step 6: Include all Rough Diagrams
+## Step 7: Design the Kanban Board
 
