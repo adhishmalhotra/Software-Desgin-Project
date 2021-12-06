@@ -37,7 +37,6 @@ And, in the end, we’ve defined business entities in the form of a business ent
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
-
 |.|.| UC-1 | A user is able to register themselves onto the application’s database. An HTML form is used to collect the data from the user and PHP is used to establish connection to the server and PHP is also used for storing all the data.|
 
 
