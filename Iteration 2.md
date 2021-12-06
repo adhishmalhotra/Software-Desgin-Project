@@ -41,6 +41,13 @@ As a result of all the decisions made in step 5 of our iteration 2, several diag
 
 And, in the end, we’ve defined business entities in the form of a business entity element and their requirements. 
 
+Initial Domain Model
+
+![Figure 1.5](images/iteration2InitialDomainModel.JPG)
+
+Figure 1.5 Initial Domain Model (Key: UML)
+
+
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal and Achievement of Design Purpose
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
 | ------------- | ------------------- | -------------------- | -------------------------------------- |
