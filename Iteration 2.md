@@ -41,25 +41,25 @@ As a result of all the decisions made in step 5 of our iteration 2, several diag
 
 And, in the end, we’ve defined business entities in the form of a business entity element and their requirements. 
 
-# Initial Domain Model
+### Initial Domain Model
 
 ![Figure 1.5](images/iteration2InitialDomainModel.JPG)
 
 Figure 1.5 Initial Domain Model (Key: UML)
 
-# Business Entities Diagram 
+### Business Entities Diagram 
 
 ![Figure 1.6](images/Iteration2BusinessEntitiesDiagram.JPG)
 
 Figure 1.6 Business Entities Model (Key: UML)
 
-# Modules that support Primary Use Case  
+### Modules that support Primary Use Case  
 
 ![Figure 1.7](images/iteration2ModuleView.JPG)
 
 Figure 1.7 Module View (Key: UML)
 
-# Define Business Entities
+### Define Business Entities
 
 |Element|Responsibility|
 | ------------- | ------------------- |
@@ -71,7 +71,7 @@ Figure 1.7 Module View (Key: UML)
 |Like Controller|This function allows a user who is logged into the system to like their own post or their friend’s post. You can also unlike a liked post.|
 |Add friend controller|Enables a user who is logged into the system to add other users. Just like the like button controller you can also remove a friend. |
 
-# UC-1 Registration 
+### UC-1 Registration 
 
 ![Figure 1.8](images/iteration2SequenceDiagramUC1.JPG)
 
@@ -83,7 +83,7 @@ FIgure 1.8 Sequence Diagram for UC-1
 |AddNewUser()|This method is part of the RegistrationController and handles the event of the user addition of the RegistrationDatabase.|
 |DisplayError()|This method outputs an error if the input is invalid.|
 
-# UC-2 Login 
+### UC-2 Login 
 
 ![Figure 1.9](images/iteration2SequenceDiagramUC2.JPG)
 
