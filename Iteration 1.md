@@ -35,3 +35,12 @@ In this iteration, we will be refining the server side of the application. It's 
 | Discarded Alternatives: | React was discarded due to its complexity and learning curve. Angular was also discarded for the same reason of its complexity and the learning curve that comes along with it. The team of development felt more comfortable working with the frameworks listed above. | 
 | Deploy the application using GitHub Pages | GitHub Pages allows you to turn GitHub repositories to create websites. All the changes are made and pushed in real time, which will allow changes to projects, profiles, or any other user change on the machine to be recorded. (CON-3) GitHub pages support more than 750 MME types hence, the deployed website will be accessible on many different browsers including Chrome V3.0+, Firefox V4+, IE8+. (CON-4)|
 
+## Step 5: Instantiate Architectural Elements, Allocate Responsibilities and Define Interfaces
+| Design decisions and Location | Rationale |
+| ------------------------------ | --------- |
+| Create initial domain | Initial domain model helps understand working of the system |
+| Define modules based on Use case model | Business logic made using the reference from the use case model |
+| Incorporate a separate layer to hold the data on server side | Adding a third layer to the server side that will manage the data ensuring that it is consistent with the data on the dedicated server.|
+| Connecting the database access module to data source | The data layer that exists on the server side will have access to the database through an access module. The purpose of this module is to provide access to the SQL database server. |
+
+
