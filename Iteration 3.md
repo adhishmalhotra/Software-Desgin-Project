@@ -1,6 +1,6 @@
 # Iteration 3: Addressing  Quality Attribute Scenario Driver (QA-3) 
 
-Here is the [full pdf](/Iteration%203.pdf) of iteration 3
+Here is the [full pdf](/Iterations/Iteration%203.pdf) of iteration 3
 
 ## Step 2
 The goal of this iteration is to focus on QA-5.A user is able to upload information about themselves to create a profile within the server during normal operation. The user will send the data to the server which will be checked for any inappropriate words or phrases, then uploaded to the database. Any other user should be able to see the changes made when reviewing the user’s profile within 1 minute of uploading.
