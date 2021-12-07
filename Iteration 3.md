@@ -23,7 +23,9 @@ For this iteration, the elements that have been chosen to be refined are:
 | Use sampling management system tactic for application and database servers | Implementing this tactic upon our servers will increase performance greatly as it reduces the amount of requests for data due to the frequency of data being decreased. Overall, the performance of the servers would be increased |
 
 ## Step 6
-[Refined Deployment Diagram]()
+![Refined Deployment Diagram](images/iteration3RefinedDeploymentDiagram.JPG)
+
+Figure 2.1 Refined Deployment Diagram (key: UML)
 
 ## Step 7
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During Iteration |
